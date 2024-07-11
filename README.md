@@ -75,5 +75,39 @@ python Controlller.py
 
 # Citation
 If you use this code, please quote our works :blush:
+```bibtex
+@article{mendez2024everyday,
+  title={Everyday Objects Rearrangement in a Human-Like Manner via Robotic Imagination and Learning from Demonstration.},
+  author={Mendez, Alberto and Prados, Adrian and Menendez, Elisabeth and Barber, Ramon},
+  journal={IEEE Access},
+  year={2024},
+  publisher={IEEE}
+}
+```
 
-At the moment, pending of acceptance in a conference. :seedling:
+Other interesting works that use the same idea :robot:
+### *User guided framework*
+[CODE](https://github.com/albmendez/User-guided-scene-with-StableDiffusion)
+```bibtex
+@inproceedings{mendez2024user,
+  title={User-guided framework for scene generation using diffusion models},
+  author={Mendez, Alberto and Prados, Adrian and Fernandez, Noelia and Espinoza, Gonzalo and Barber, Ramon},
+  booktitle={2024 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)},
+  pages={22--27},
+  year={2024},
+  organization={IEEE}
+}
+```
+
+### *LfD for Optimization of Task-Parameterized Skills*
+[CODE](https://github.com/AdrianPrados/klTPGMM)
+```bibtex
+@inproceedings{prados2024f,
+  title={f-Divergence Optimization for Task-Parameterized Learning from Demonstrations Algorithm},
+  author={Prados, Adrian and Mendez, Alberto and Espinoza, Gonzalo and Fernandez, Noelia and Barber, Ramon},
+  booktitle={2024 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)},
+  pages={9--14},
+  year={2024},
+  organization={IEEE}
+}
+```
